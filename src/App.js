@@ -1,23 +1,35 @@
-import logo from './logo.svg';
+// import logo from './assets/PIXDDDD/logonew.png';
 import './App.css';
+import Header from './Commponent/Header/Header';
+import Nav from './Commponent/Navbar/Nav.jsx';
+import About from './Commponent/About/About';
+import Expireance from './Commponent/Expireance/Expireance.jsx';
+import Services from './Commponent/Services/Services.jsx';
+import Portfolio from './Commponent/Portfolio/Portfolio.jsx';
+import Testmonial from './Commponent/Testmonial/Testmonial.jsx';
+import Conntact from './Commponent/Conntact/Conntact.jsx';
+import Footer from './Commponent/Footer/Footer.jsx';
+import SoundBar from './Commponent/Sound/SoundBar';
+import {Bounce, Zoom} from 'react-reveal';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Bounce left>
+        <SoundBar/>
+      </Bounce>
+      <Header/>
+      <Nav/>
+      <About/>
+      <Expireance/>
+      <Services/>
+      <Portfolio/>
+      <Zoom>
+        <Testmonial/>
+      </Zoom>
+      <Conntact/>
+      <Footer/>
+
     </div>
   );
 }
