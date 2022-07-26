@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/persnolportfolio/static/css/main.f1560284.css",
+    "main.js": "/persnolportfolio/static/js/main.fc053167.js",
+    "static/js/787.7ce2a803.chunk.js": "/persnolportfolio/static/js/787.7ce2a803.chunk.js",
+    "static/media/WhatsApp Audio 2022-07-21 at 9.40.00 AM.mpeg": "/persnolportfolio/static/media/WhatsApp Audio 2022-07-21 at 9.40.00 AM.e2f3dfa477f11ccf9708.mpeg",
+    "static/media/Ch Jawad Cv Update.pdf": "/persnolportfolio/static/media/Ch Jawad Cv Update.19c5e510fb2a4a82df0c.pdf",
+    "static/media/kokoone.png": "/persnolportfolio/static/media/kokoone.cf2d5bcf40a2088743d4.png",
+    "static/media/portfolio5.png": "/persnolportfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/kpkp.jpeg": "/persnolportfolio/static/media/kpkp.7c0d28f170eaceb85f69.jpeg",
+    "static/media/portfolio6.jpg": "/persnolportfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/post4.jpeg": "/persnolportfolio/static/media/post4.541a2eb7f77298485037.jpeg",
+    "static/media/post2.jpeg": "/persnolportfolio/static/media/post2.0adde79636e70dc4f793.jpeg",
+    "static/media/post1.jpeg": "/persnolportfolio/static/media/post1.c3c005729c6c0f1c96fc.jpeg",
+    "static/media/portfolio4.jpg": "/persnolportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/persnolportfolio/index.html",
+    "main.f1560284.css.map": "/persnolportfolio/static/css/main.f1560284.css.map",
+    "main.fc053167.js.map": "/persnolportfolio/static/js/main.fc053167.js.map",
+    "787.7ce2a803.chunk.js.map": "/persnolportfolio/static/js/787.7ce2a803.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1560284.css",
+    "static/js/main.fc053167.js"
+  ]
+}
